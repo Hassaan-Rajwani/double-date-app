@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "15342139166",
+    "project_id": "double-date-75235",
+    "storage_bucket": "double-date-75235.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15342139166:android:665216b76666819c9e7b0f",
+        "android_client_info": {
+          "package_name": "com.example.double_date"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15342139166-8f2dqt1bbv9aigd51torj00goo8soa9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxC0TLAFrGEhrt2djgyDcmJBMxAn0LIXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15342139166-8f2dqt1bbv9aigd51torj00goo8soa9r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15342139166-6c4d1u2svd07pbbvqmjiu8hotkc8kitf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thesuitch.doubledate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
